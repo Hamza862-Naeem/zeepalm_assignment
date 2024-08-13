@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470408061064",
+    "project_id": "newprjct-f2617",
+    "storage_bucket": "newprjct-f2617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470408061064:android:3396e29c1ad58cd8a13f3d",
+        "android_client_info": {
+          "package_name": "com.example.newprjct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLGHbh6qm-8od1y-fm1WKo8oBIZbsyDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
